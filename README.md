@@ -9,9 +9,13 @@ A aplicação já tem um layout bem estruturado e definido, semelhante a usados 
 
 # Instalação
 
-RODE EXATAMENTE "npm install integracao-open-weather" na raiz da pasta do projeto e depois rode "npm start" e a aplicação está rodando na url http://localhost:8080 não precisa rodar npm install.
+RODE EXATAMENTE "npm install integracao-open-weather" na raiz da pasta do projeto e depois rode "npm start" e a aplicação estará rodando na url http://localhost:8080 não precisa rodar npm install.
 
 
 # Usabilidade
 
 É necessário permitir ao seu navegar fornecer a localização para os dados climáticos serem exibidos. Se o navegador não exibir a pergunta para permitir acesso a localização quando abrir a aplicação, tente procurar no topo do navegador algum ícone de localização para clicar e permitir acesso. Caso não encontre, será pego a localização padrão cadastrada por default, está a latitude e longitude de São Paulo capital.
+
+# Layout
+
+![image](https://user-images.githubusercontent.com/91918525/149658298-a0853035-6aa0-4bb1-a789-7de7bbdefb6b.png)
