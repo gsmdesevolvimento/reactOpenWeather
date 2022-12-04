@@ -16,6 +16,8 @@ RODE EXATAMENTE "npm install integracao-open-weather" na raiz da pasta do projet
 
 É necessário permitir ao seu navegar fornecer a localização para os dados climáticos serem exibidos. Se o navegador não exibir a pergunta para permitir acesso a localização quando abrir a aplicação, tente procurar no topo do navegador algum ícone de localização para clicar e permitir acesso. Caso não encontre, será pego a localização padrão cadastrada por default, está a latitude e longitude de São Paulo capital.
 
-# Layout
+#### Autor: eu, gsm.dados@gmail.com / Linkedin: https://www.linkedin.com/in/gsmdados
+
+##### Preview:
 
 ![image](https://user-images.githubusercontent.com/91918525/149658298-a0853035-6aa0-4bb1-a789-7de7bbdefb6b.png)
