@@ -1,7 +1,7 @@
 # Integração com openWeather
 
 A aplicação web, permite exibir na tela as informações climáticas sobre a localização do usuário.
-É captura do browser, conforme permissão do usuário, a localização dele e assim é obtido a latitude e longitude para que a aplicação capture a geolocalização para informar os dados climáticos.
+É capturada do browser, conforme permissão do usuário, a geolocalização obtendo a latitude e longitude para que a aplicação processe os dados climáticos.
 
 # Tecnologias
 
